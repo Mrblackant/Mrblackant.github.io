@@ -1,0 +1,2 @@
+webpackJsonp([8],{Ofcz:function(t,e,n){"use strict";Object.defineProperty(e,"__esModule",{value:!0});var s={render:function(){var t=this.$createElement,e=this._self._c||t;return e("div",{staticClass:"commonTopTitle"},[e("div",{staticClass:"bottom_text"},[this._t("mySlot",[this._v("我是标题")])],2)])},staticRenderFns:[]};var i=n("VU/8")({data:function(){return{}},mounted:function(){},methods:{},watch:{}},s,!1,function(t){n("h0lQ")},"data-v-75183f81",null);e.default=i.exports},h0lQ:function(t,e){}});
+//# sourceMappingURL=8.0ce822a528ce1731a996.js.map
