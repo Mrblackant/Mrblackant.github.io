@@ -1,0 +1,1 @@
+{"version":3,"sources":["components/notFound/index.tsx"],"names":["NotFound"],"mappings":"8IAIeA,UAJf,WACE,OAAO","file":"static/js/7.cf06e08d.chunk.js","sourcesContent":["function NotFound() {\n  return <div>欢迎来到知识的荒原</div>\n}\n\nexport default NotFound\n"],"sourceRoot":""}

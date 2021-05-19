@@ -1,0 +1,1 @@
+{"version":3,"sources":["components/pages/listSigel.tsx"],"names":["ListSigel"],"mappings":"+IAIeA,UAJf,WACE,OAAO","file":"static/js/10.35fdcde9.chunk.js","sourcesContent":["function ListSigel() {\n  return <div>单列表 </div>\n}\n\nexport default ListSigel\n"],"sourceRoot":""}

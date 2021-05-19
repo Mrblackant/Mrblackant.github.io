@@ -1,0 +1,1 @@
+{"version":3,"sources":["components/pages/detail.tsx"],"names":["Detail"],"mappings":"8IAIeA,UAJf,WACE,OAAO","file":"static/js/8.7fe49ddc.chunk.js","sourcesContent":["function Detail() {\n  return <div>详情页面 </div>\n}\n\nexport default Detail\n"],"sourceRoot":""}
